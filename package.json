@@ -12,9 +12,14 @@
     "format": "prettier --write src/"
   },
   "dependencies": {
+    "apexcharts": "^3.40.0",
+    "chart.js": "^4.3.0",
+    "flowbite": "^1.6.5",
     "pinia": "^2.0.36",
     "vue": "^3.3.2",
-    "vue-router": "^4.2.0"
+    "vue-apexcharts": "^1.6.2",
+    "vue-router": "^4.2.0",
+    "vue3-apexcharts": "^1.4.1"
   },
   "devDependencies": {
     "@rushstack/eslint-patch": "^1.2.0",
